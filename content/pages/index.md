@@ -748,5 +748,7 @@ seo:
   metaDescription: 'Your Daily Dose of Strength, Wisdom, and Inspiration! '
   socialImage: /images/young_woman_meditating_mental_wellness_shutterstock_ready.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
