@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Empower Her Daily
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Your Daily Dose of Strength, Wisdom, and Inspiration! '
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
