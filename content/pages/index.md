@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: Empower Her Daily
   metaDescription: 'Your Daily Dose of Strength, Wisdom, and Inspiration! '
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/young_woman_meditating_mental_wellness_shutterstock_ready.jpg
   type: Seo
 type: PageLayout
 ---
