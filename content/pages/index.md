@@ -751,5 +751,11 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: >-
+        <!-- Google tag (gtag.js) --><script async
+        src="https://www.googletagmanager.com/gtag/js?id=G-NS95KQDV5G"></script><script> 
+        window.dataLayer = window.dataLayer || [];  function
+        gtag(){dataLayer.push(arguments);}  gtag('js', new Date()); 
+        gtag('config', 'G-NS95KQDV5G');</script>
 type: PageLayout
 ---
